@@ -1,7 +1,7 @@
 # Summary
 
 * [Intro](README.md)
-   * Bootstrapping
+   * [Bootstrapping](intro/bootstrapping.md)
 * [Konzepte](concepts/README.md)
    * [Modules](concepts/modules.md)
 
